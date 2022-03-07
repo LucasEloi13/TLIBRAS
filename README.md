@@ -18,7 +18,12 @@ The project is still in development, see below for the list of planned steps and
 
 ## 🚀 Run Locally
 
-To install the project, follow these steps:
+To run the project, use:
 ```
 <git clone https://github.com/LucasEloi13/Brazilian-Sign-Language-Detection-Using-Deep-Learning.git>
 ```
+and 
+```
+<!pip install tensorflow==2.4.1 tensorflow-gpu==2.4.1 opencv-python mediapipe sklearn matplotlib> 
+```
+to install the dependencies (the python version used was 3.7). 
