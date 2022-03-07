@@ -14,3 +14,11 @@ The project is still in development, see below for the list of planned steps and
 - [ ] Preprocess Data and Create Labels
 - [ ] Build and Train an LSTM Deep Learning Model
 - [ ] Make Sign Language Predictions
+
+
+## 🚀 Run Locally
+
+To install the project, follow these steps:
+```
+<git clone https://github.com/LucasEloi13/Brazilian-Sign-Language-Detection-Using-Deep-Learning.git>
+```
