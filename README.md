@@ -20,7 +20,7 @@ The project is still in development, see below for the list of planned steps and
 
 To run the project, use:
 ```
-<git clone https://github.com/LucasEloi13/Brazilian-Sign-Language-Detection-Using-Deep-Learning.git>
+<git clone https://github.com/LucasEloi13/TLIBRAS.git>
 ```
 and 
 ```
