@@ -9,7 +9,7 @@ The project is still in development, see below for the list of planned steps and
 
 - [x] Detect Face, Hand and Pose Landmarks
 - [x] Extract Keypoints
-- [ ] Setup Folders for Data Collection
+- [x] Setup Folders for Data Collection
 - [ ] Collect Keypoint Sequences
 - [ ] Preprocess Data and Create Labels
 - [ ] Build and Train an LSTM Deep Learning Model
