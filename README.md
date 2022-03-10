@@ -1,4 +1,4 @@
-# Brazilian Sign Language Detection Using Deep Learning
+# TLIBRAS
 
 This project is about a sign language recognition model using Python.
 
