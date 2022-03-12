@@ -10,7 +10,7 @@ The project is still in development, see below for the list of planned steps and
 - [x] Detect Face, Hand and Pose Landmarks
 - [x] Extract Keypoints
 - [x] Setup Folders for Data Collection
-- [ ] Collect Keypoint Sequences
+- [x] Collect Keypoint Sequences
 - [ ] Preprocess Data and Create Labels
 - [ ] Build and Train an LSTM Deep Learning Model
 - [ ] Make Sign Language Predictions
