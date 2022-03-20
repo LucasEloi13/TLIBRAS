@@ -14,7 +14,7 @@ The project is still in development, see below for the list of planned steps and
 - [x] Preprocess Data and Create Labels
 - [x] Build and Train an LSTM Deep Learning Model
 - [x] Make Sign Language PredictionsCancel changes
-
+- [ ] Improve Precision
 
 ## 🚀 Run Locally
 
