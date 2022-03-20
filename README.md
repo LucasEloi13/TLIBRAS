@@ -12,8 +12,8 @@ The project is still in development, see below for the list of planned steps and
 - [x] Setup Folders for Data Collection
 - [x] Collect Keypoint Sequences
 - [x] Preprocess Data and Create Labels
-- [ ] Build and Train an LSTM Deep Learning Model
-- [ ] Make Sign Language Predictions
+- [x] Build and Train an LSTM Deep Learning Model
+- [x] Make Sign Language PredictionsCancel changes
 
 
 ## 🚀 Run Locally
